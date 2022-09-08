@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Are You Serious', cursive;
+    font-family: 'BhuTuka Expanded One', cursive;
+    font-family: 'Gantari', sans-serif;
+    font-family: 'Grape Nuts', cursive;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Qwitcher Grypen', cursive;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Rubik Puddles', cursive;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#app {
+    background: white;
+}
+
+#game{
+    background-color:lightcoral;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
